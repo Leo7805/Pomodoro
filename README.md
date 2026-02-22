@@ -21,7 +21,7 @@ The program runs as an independent Windows executable with no installation requi
 
 ### 💻 Compatibility
 
-Tested and confirmed to run on **Windows 10**.
+Tested and confirmed to run on **Windows 10/11**.
 
 ---
 
