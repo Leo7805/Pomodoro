@@ -1,10 +1,43 @@
-# Pomodoro
+# ⏱️ Pomodoro Timer (Windows Desktop App)
 
-1. A pomodoro timer with countdown and alarm functionality.
-2. When time is up, users can choose an action (e.g., display a reminder, trigger consequences like screen lock, or shutdown system in 5 seconds).  
-3. `MFC` Project, `Windows` Only.
-4. Author: Leo (geneleoc@gmail.com)
+A standalone Pomodoro timer desktop application developed using **C++ (MFC)** for the Windows platform.
 
-## Release
+🔗 **Download**:  https://github.com/Leo7805/Pomodoro/releases/download/v2.0/Pomodoro.exe
 
-* [Download](https://github.com/Leo7805/Pomodoro/releases/download/v2.0/Pomodoro.exe)
+---
+
+### 📌 Overview
+
+This application was designed as a personal productivity tool and has been used daily for several years.  
+It provides flexible countdown and alarm functionality for:
+
+- Pomodoro sessions  
+- General stopwatch usage  
+- Custom timers  
+
+The program runs as an independent Windows executable with no installation required.
+
+---
+
+### 💻 Compatibility
+
+Tested and confirmed to run on **Windows 10**.
+
+---
+
+### 🎯 Key Features
+
+- Configurable countdown timer  
+- Alarm and reminder notifications  
+- Post-timer system-level actions, including:
+  - Display reminder message  
+  - Lock screen  
+  - Automatic system shutdown (after 5 seconds)
+
+---
+
+### 🛠️ Tech Stack
+
+- C++
+- Microsoft Foundation Classes (MFC)
+- Native Windows Desktop Application
